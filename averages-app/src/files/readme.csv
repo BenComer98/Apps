@@ -1,0 +1,8 @@
+Characters,ID,Game,Name,DisplayName,Gender,ClassingType,isChild,,,,,,,,,,,,,,,,,,,,,,,,
+Stats,ID,ClassID,BaseLVL,BaseHP,BaseSTR,BaseMAG,BaseSKL,BaseSPD,BaseLCK,BaseDEF,BaseRES,GrowthHP,GrowthSTR,GrowthMAG,GrowthSKL,GrowthSPD,GrowthLCK,GrowthDEF,GrowthRES,MaxSTR,MaxMAG,MaxSKL,MaxSPD,MaxLCK,MaxDEF,MaxRES,ClassSet1,ClassSet2,ClassSet3,,
+Class,ID,Name,DisplayName,isPromoted,isSpecial,Gender,BaseHP,BaseSTR,BaseMAG,BaseSKL,BaseSPD,BaseLCK,BaseDEF,BaseRES,BaseMOV,GrowthHP,GrowthSTR,GrowthMAG,GrowthSKL,GrowthSPD,GrowthLCK,GrowthDEF,GrowthRES,MaxHP,MaxSTR,MaxMAG,MaxSKL,MaxSPD,MaxLCK,MaxDEF,MaxRES
+Child,ID,Parent,AltParent,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Boons,Stat,DisplayName,BaseHP,BaseSTR,BaseMAG,BaseSKL,BaseSPD,BaseLCK,BaseDEF,BaseRES,GrowthHP,GrowthSTR,GrowthMAG,GrowthSKL,GrowthSPD,GrowthLCK,GrowthDEF,GrowthRES,MaxSTR,MaxMAG,MaxSKL,MaxSPD,MaxLCK,MaxDEF,MaxRES,,,,,,
+Banes,Stat,DisplayName,BaseHP,BaseSTR,BaseMAG,BaseSKL,BaseSPD,BaseLCK,BaseDEF,BaseRES,GrowthHP,GrowthSTR,GrowthMAG,GrowthSKL,GrowthSPD,GrowthLCK,GrowthDEF,GrowthRES,MaxSTR,MaxMAG,MaxSKL,MaxSPD,MaxLCK,MaxDEF,MaxRES,,,,,,
+Talents,ID,Name,DisplayName,ClassSet,Gendered,,,,,,,,,,,,,,,,,,,,,,,,,,
+ClassSet,ID,UnpromotedClassID,PromotedClassID1,PromotedClassID2,Parallel,,,,,,,,,,,,,,,,,,,,,,,,,,

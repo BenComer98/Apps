@@ -1,0 +1,1 @@
+The database here will store the stats universally, so I don't have to rebuild it every time in code. I will keep everything else local. Maybe there will be a saving function in the future?
